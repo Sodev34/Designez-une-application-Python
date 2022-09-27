@@ -22,7 +22,7 @@ un nouveau site web, qui doit être composé des pages suivantes :
 
 ## Livrables:
 
-Diagramme de cas d'utilisations réalisé sur GitMind <br>
-Users Stories réalisé sur Excel <br>
-Tableau Kanban réalisé sur Trello <br>
-Maquettes fonctionnelles Mobile et Desktop réalisé sur Sketch
+- Diagramme de cas d'utilisations réalisé sur GitMind <br>
+- Users Stories réalisé sur Excel <br>
+- Tableau Kanban réalisé sur Trello <br>
+- Maquettes fonctionnelles Mobile et Desktop réalisé sur Sketch
