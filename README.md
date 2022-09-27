@@ -1,20 +1,28 @@
 # Projet_3_Designez_une_application_Python
-Le projet consiste a crée un programme de scraping à partir d'un site de commerce en ligne.
 
-Le programme permet d'extraire pour tous les livres disponibles un ensemble d'information pour chaque livre.<br>
-Les informations devront ensuite être enregistrées dans des fichiers csv correspondant a chacune des catégories<br>de livre pour plus de lisibilité.<br>
-Il sera fait de même pour les images de couvertures des livres qui seront classer de la même manière dans<br> un fichier image avec comme titre celui du livre pour chaque couverture de livre présent sur le site.
+Présentation du projet
 
-## Création de l'environnement virtuel avec Python 3.9.12:
+Learn@Home est une association qui met en relation des enfants en difficulté
+scolaire et des bénévoles, en ligne. Elle a pour objectif de permettre à tout élève,
+où qu’il soit, d’accéder à un soutien scolaire à distance.
 
-    python3 -m venv env
+Chaque élève inscrit sur le site a un tuteur bénévole qui lui est assigné. Le
+bénévole a pour objectif de soutenir l’élève dans son apprentissage, à travers de
+courts rendez-vous prévus chaque semaine. Durant ces rendez-vous, le bénévole
+aide l’élève à réaliser ses devoirs et à s’organiser.
 
-    source env/bin/activate
+Pour faciliter les interactions et la communication, Learn@Home souhaite créer
+un nouveau site web, qui doit être composé des pages suivantes :
 
-## Téléchargement des packages :
+1. Une page de connexion.
+2. Une page Tableau de bord.
+3. Une page Interface de chat.
+4. Une page de calendrier.
+5. Une page de gestion des tâches
 
-    python3 -m pip install -r requirements.txt
+## Livrables:
 
-## Exécution du script :
-
-    python3 main.py
+Diagramme de cas d'utilisations réalisé sur GitMind
+Users Stories réalisé sur Excel
+Tableau Kanban réalisé sur Trello
+Maquettes fonctionnelles Mobile et Desktop réalisé sur Sketch
